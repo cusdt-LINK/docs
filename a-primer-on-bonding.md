@@ -9,11 +9,11 @@ So, how do they work?
 
 Bonding is the process of trading an LP share to the protocol for ZONE. The protocol quotes an amount of ZONE and a vesting period for the trade. 
 It is important to know: when you create your bond, you are giving up your LP share. The protocol compensates you with more ZONE than you’d get on the market, 
-but your exposure becomes entirely to ZONE and no longer to ZONE-ALPHA LP.
+but your exposure becomes entirely to ZONE and no longer to ZONE-KCS LP.
 
 ### Creating a bond
 
-To create a bond, you must first add liquidity to the ZONE-ALPHA AlphaSwap pool. You’ll then go to our website and select “Bond.” The protocol will quote a price for you. 
+To create a bond, you must first add liquidity to the ZONE-KCS AlphaSwap pool. You’ll then go to our website and select “Bond.” The protocol will quote a price for you. 
 If you accept, you then send your LP share to the treasury and receive a claim on ZONE.
 
 
