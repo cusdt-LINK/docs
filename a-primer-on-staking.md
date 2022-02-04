@@ -1,13 +1,13 @@
 ### ✨ A Primer on Staking
 
 You can relax, because this one is simple. Staking is the profit distribution mechanism of TwzFinance.
-It is designed as one of the dominant strategy for participants; besides bonding the best thing to do will likely be to just stake, hold, and compound.
+It is designed as one of the dominant strategy for participants; besides bonding, the best thing to do will likely be to just stake, hold, and compound.
 
 Let’s go over how it works:
 
 ### Staking
 
-To stake ZONE, you go to our website and select “stake.” You will send your ZONE to the staking contract and receive TWLT at the rate determined by the current rebase.
+To stake ZONE, you go to our website and select “stake.” You will send your ZONE to the staking contract and receive TWLT at the rate determined by the amount of ZONE in the reservoir, and the current rebase.
 
 ### Unstaking
 
